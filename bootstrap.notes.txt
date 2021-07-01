@@ -1,0 +1,11 @@
+1. Use my-5 to make a margin in y-axis 
+
+2. Use mx- 1 to make a margin in x-axis
+
+3. Use d-flex to make a flex-container
+
+4. Use align-items-center and justify-content-center to align them vertically
+as well as horizontally
+
+
+5. Use order-md-1 to give them a order
